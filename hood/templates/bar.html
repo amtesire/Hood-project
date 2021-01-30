@@ -1,6 +1,6 @@
 <nav id="sidebar" class="">
     <div class="sidebar-header ">
-        <h3><a href="{% url 'index' %}">Hood Watch</a></h3>
+        <h3><a href="{% url 'index' %}">Hood App</a></h3>
         <strong><i class="fas fa-home"></i></strong>
     </div>
     {% if user.is_authenticated %}
@@ -41,7 +41,7 @@
         {% endif %}
     </ul>
     <div class="logout ml-2 mr-2 ">
-        <a href="{% url 'logout' %}" class="btn btn-sm btn-outline-danger d-block mx-auto"> Logout</a>
+        <a href="{% url 'logout' %}" class="btn btn-sm btn-outline-warning d-block mx-auto"> Logout</a>
     </div>
 
     {% endif%}
