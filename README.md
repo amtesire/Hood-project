@@ -1,5 +1,11 @@
 # Hood-Project
 
+## Author  
+
+* Names: Munezero Tesire Gisele
+* E-mail: tesiregisele@gmail.com
+* Github-username: amtesire
+
 >[amtesire](https://github.com/amtesire)    
   
 # Description  
@@ -12,7 +18,7 @@ join a hood or create your own hood, one can see businesses and posts in only th
 ## Screenshots 
 ###### Home page
  
-<img src="">
+<img src="https://raw.githubusercontent.com/amtesire/Hood-Project/master/static/images/hoodpage.png">
 
  
 ## User Story  
